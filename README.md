@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lamba92/jade-project.svg?branch=master)](https://travis-ci.org/lamba92/jade-project)
+[![Build Status](https://travis-ci.org/lamba92/jade-project.svg?branch=master)](https://travis-ci.org/lamba92/jade-kotlin)
 
 # A JADE AGENT KOTLIN PROJECT
 
