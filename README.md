@@ -1,4 +1,6 @@
-# JADE PROJECT
+[![Build Status](https://travis-ci.org/lamba92/jade-project.svg?branch=master)](https://travis-ci.org/lamba92/jade-project)
+
+# A JADE AGENT KOTLIN PROJECT
 
 This project has been made for the exam of Intelligent Agents of University of Turin. It has been written using Kotlin using the [ModernAgent](https://github.com/lamba92/jade-modern-agent) library.
 
